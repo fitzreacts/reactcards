@@ -1,0 +1,29 @@
+[
+  {
+    "id": "p1",
+    "title": "Smart Parking System",
+    "description": "IoT sensors + dashboard to surface live availability and simple analytics.",
+    "image": "https://images.unsplash.com/photo-1483721310020-03333e577078?q=80&w=1200&auto=format&fit=crop",
+    "tech": ["React", "Node", "MongoDB"],
+    "demoUrl": "https://example.com/parking",
+    "repoUrl": "https://github.com/example/smart-parking"
+  },
+  {
+    "id": "p2",
+    "title": "Study Buddy Scheduler",
+    "description": "A React app to form study groups and reserve rooms with calendar sync.",
+    "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?q=80&w=1200&auto=format&fit=crop",
+    "tech": ["React", "Express", "JWT"],
+    "demoUrl": "https://example.com/scheduler",
+    "repoUrl": "https://github.com/example/study-buddy"
+  },
+  {
+    "id": "p3",
+    "title": "Campus Pantry Locator",
+    "description": "Map-based finder for free food & essentials; includes hours & directions.",
+    "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=1200&auto=format&fit=crop",
+    "tech": ["React", "Leaflet", "REST API"],
+    "demoUrl": "https://example.com/pantry",
+    "repoUrl": "https://github.com/example/campus-pantry"
+  }
+]
